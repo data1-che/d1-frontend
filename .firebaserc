@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "d1-frontend"
+  },
+  "targets": {
+    "d1-frontend": {
+      "hosting": {
+        "d1-frontend": [
+          "d1-frontend"
+        ]
+      }
+    }
+  }
+}
